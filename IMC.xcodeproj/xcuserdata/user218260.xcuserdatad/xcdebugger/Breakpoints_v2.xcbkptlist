@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1180C9C9-B324-4EF6-884C-F4DE5208423A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0988060-2745-4C62-9DFB-F6EED582A590"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IMC/View/CalculateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CalculateView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D0988060-2745-4C62-9DFB-F6EED582A590 - 1175033078409151"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.CalculateView.calculateResult.getter : IMC.calculateModel"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user218260/Documents/Fourcamp/IMC/IMC/View/CalculateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D0988060-2745-4C62-9DFB-F6EED582A590 - 9e74a70beb8da95d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.CalculateView.calculateResult.setter : IMC.calculateModel"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user218260/Documents/Fourcamp/IMC/IMC/View/CalculateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "D0988060-2745-4C62-9DFB-F6EED582A590 - 80ba2dea2b6cd76e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.CalculateView.calculateResult.modify : IMC.calculateModel"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user218260/Documents/Fourcamp/IMC/IMC/View/CalculateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "D0988060-2745-4C62-9DFB-F6EED582A590 - 1d02651a2f53fd5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.CalculateView.calculateResult.modify : IMC.calculateModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user218260/Documents/Fourcamp/IMC/IMC/View/CalculateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D0988060-2745-4C62-9DFB-F6EED582A590 - 2dddaf358988f475"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.CalculateView.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IMC.CalculateView"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user218260/Documents/Fourcamp/IMC/IMC/View/CalculateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "D0988060-2745-4C62-9DFB-F6EED582A590 - 4dbf5e3e0dc23b5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMC.CalculateView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IMC.CalculateView&gt;"
+                  moduleName = "IMC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user218260/Documents/Fourcamp/IMC/IMC/View/CalculateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
